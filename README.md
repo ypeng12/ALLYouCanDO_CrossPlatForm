@@ -1,16 +1,21 @@
-# snowglobe
+# Task Hub Flutter 
 
-A new Flutter project.
+## Introduction
+Here is the embedded content from the PDF:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Page 1](images/1.png)
+![Page 2](images/2.png)
+![Page 3](images/3.png)
+![Page 4](images/4.png)
+![Page 5](images/5.png)
+![Page 6](images/6.png)
+![Page 7](images/7.png)
+![Page 8](images/8.png)
+![Page 9](images/9.png)
+![Page 10](images/10.png)
+![Page 11](images/11.png)
+![Page 12](images/12.png)
+![Page 13](images/13.png)
+![Page 14](images/14.png)
+![Page 15](images/15.png)
+![Page 16](images/16.png)
